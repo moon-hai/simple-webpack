@@ -61,10 +61,6 @@ module.exports = {
         options: {
           noquotes: true
         }
-      },
-      {
-        test: /\.ejs$/,
-        loader: 'ejs-loader'
       }
     ]
   },
