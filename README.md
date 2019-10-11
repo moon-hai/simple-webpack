@@ -7,9 +7,9 @@
 * Webpack dev server
 * Scss - css preprocessor
 * Autoprefixer
-* EJS - Templat Engine (not completed yet)
 * CSS minify
-* Es6/Es2015 is available
+* EJS - Template Engine (not completed yet)
+* Es6(Es2015) is available
 ```
 
 ## Installation
@@ -20,7 +20,7 @@ cd /path/to/folder && npm install
 ## Usage
 ### Dev
 ```
-npm run dev (Listening n port 8001)
+npm run dev (Listening on port 8001)
 ```
 
 ### Production
