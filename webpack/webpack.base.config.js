@@ -75,7 +75,7 @@ module.exports = {
 
   plugins: [
     new MiniCssExtractPlugin({
-      filename: 'app.[contenthash:8].css'
+      filename: 'app.[contenthash].css'
     })
   ]
   .concat(generateHtmlPlugins(path.resolve(__dirname, `${init.src}/html`)))
